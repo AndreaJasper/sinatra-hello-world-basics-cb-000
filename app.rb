@@ -11,5 +11,6 @@ class App < Sinatra::Base
 
   get '/' do
     "Hello, World"
+  end
 end
 >>>>>>> 8e9f85a0fcba9daed4d9f022aa108cb3cea52069
